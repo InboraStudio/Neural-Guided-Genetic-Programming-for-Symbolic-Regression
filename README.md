@@ -123,8 +123,8 @@ where:
 ### Setup
 
 1. Clone the repository:
-git clone https://github.com/InboraStudio/genetic-programming-symbolic-regression.git
-cd genetic-programming-symbolic-regression
+git clone https://github.com/InboraStudio/Neural-Guided-Genetic-Programming-for-Symbolic-Regression.git
+cd Neural-Guided-Genetic-Programming-for-Symbolic-Regression
 
 2. Open project in Unity
 
@@ -268,9 +268,9 @@ MIT License - see LICENSE file for details
 If you use this software in your research, please cite:
 
 @software{inbora_gp_2025,
-author = {Dr Chamyoung (Alok)},
+author = {Dr Chamyoung},
 title = {Neural-Guided Genetic Programming for Symbolic Regression},
 year = {2025},
 publisher = {GitHub},
-url = {https://github.com/InboraStudio/genetic-programming-symbolic-regression}
+url = {https://github.com/InboraStudio/Neural-Guided-Genetic-Programming-for-Symbolic-Regression}
 }
